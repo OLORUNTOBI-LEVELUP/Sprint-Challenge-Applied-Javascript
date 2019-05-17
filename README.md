@@ -32,13 +32,33 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+##Answer
+The DOM is the document object model.It is an API programming interface for JavaScript that allows JavaScript to add/change/ remove HTML elemnts and attributes, also add/change/remove css styles, listen for and react to HTML events. The HTML DOM model is constructed as a tree of Objects
+
+
 2. What is an event?
+
+##Answer
+Events are things that happen on HTML elemnts
+
 
 3. What is an event listener?
 
+##Answer
+An event listener listens for a particular event on the dom. They wait for a particular event to occur
+
+
 4. Why would we convert a NodeList into an Array?
 
+##Answer
+NodeList should be converted to an array in order to have access to array methods such as ForEach, Map etc
+
+
 5. What is a component?
+
+##Answer
+A component is simply a piece of reusable code that can be used to build elements sharing functionality abd style
+
 
 ### Git Set up
 
